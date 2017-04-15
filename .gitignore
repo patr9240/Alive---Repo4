@@ -1,0 +1,14 @@
+MyProject.VB.db
+GameFinal_Alive.VB.db
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
